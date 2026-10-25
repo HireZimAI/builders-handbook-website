@@ -5,6 +5,20 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "-jXnk7ELmDw",
+    "title": "#startup #smallbusiness #africanentrepreneurs #entrepreneurship #entrepreneur #zimbabwe",
+    "published": "2026-10-25T13:32:02+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
+    "id": "82gZzdfFQ8g",
+    "title": "#africanentrepreneurs #entrepreneurship #pitching",
+    "published": "2026-10-25T13:30:39+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "XhplfQYTptI",
     "title": "From a Failed Startup to Raising $10 Million",
     "published": "2026-10-22T01:37:31+00:00",
