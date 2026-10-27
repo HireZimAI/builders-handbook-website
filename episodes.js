@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "55QJhsOP9pk",
+    "title": "Its easy to get overexcited about an idea but is it solving a problem? #africanentrepreneurs",
+    "published": "2026-10-27T14:35:11+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "-jXnk7ELmDw",
     "title": "#startup #smallbusiness #africanentrepreneurs #entrepreneurship #entrepreneur #zimbabwe",
     "published": "2026-10-25T13:32:02+00:00",
