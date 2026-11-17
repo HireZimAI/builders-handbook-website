@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "xNdfmneesfA",
+    "title": "AI Stigma Is Fear In Disguise",
+    "published": "2026-11-17T15:03:53+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "55QJhsOP9pk",
     "title": "Its easy to get overexcited about an idea but is it solving a problem? #africanentrepreneurs",
     "published": "2026-10-27T14:35:11+00:00",
