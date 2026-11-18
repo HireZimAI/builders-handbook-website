@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "T2R5YgpZnW0",
+    "title": "Clients Can Sniff Out Empty AI Jargon",
+    "published": "2026-11-18T14:00:18+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "xNdfmneesfA",
     "title": "AI Stigma Is Fear In Disguise",
     "published": "2026-11-17T15:03:53+00:00",
