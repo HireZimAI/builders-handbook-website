@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "y5TE8ehAN5A",
+    "title": "Stop Disqualifying Yourself From AI",
+    "published": "2026-11-19T14:00:03+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "T2R5YgpZnW0",
     "title": "Clients Can Sniff Out Empty AI Jargon",
     "published": "2026-11-18T14:00:18+00:00",
