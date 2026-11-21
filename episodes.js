@@ -33,6 +33,13 @@ window.BH_EPISODES = [
     "kind": "Episode"
   },
   {
+    "id": "6LBIdG-BQdI",
+    "title": "AI wont take your job but someone who understands it might theaibridge.org",
+    "published": "2026-10-30T16:00:58+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "55QJhsOP9pk",
     "title": "Its easy to get overexcited about an idea but is it solving a problem? #africanentrepreneurs",
     "published": "2026-10-27T14:35:11+00:00",
