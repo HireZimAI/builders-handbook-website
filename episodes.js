@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "OuXYB1PYUpc",
+    "title": "Small Rooms Build Real Connections",
+    "published": "2026-11-23T14:00:05+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "GdH7XS9yX8U",
     "title": "Your AI Tool Is Not The Sales Pitch",
     "published": "2026-11-20T14:00:19+00:00",
