@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "pvZwzEstQfA",
+    "title": "Jesus Is Not A Magic Wand",
+    "published": "2026-11-25T14:00:34+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "OuXYB1PYUpc",
     "title": "Small Rooms Build Real Connections",
     "published": "2026-11-23T14:00:05+00:00",
