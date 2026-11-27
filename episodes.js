@@ -5,6 +5,13 @@
 // the RSS window, so older episodes stay listed.
 window.BH_EPISODES = [
   {
+    "id": "ADtkQ7OxSz4",
+    "title": "AI Tools Don't Make You A Business",
+    "published": "2026-11-27T14:00:32+00:00",
+    "duration": null,
+    "kind": "Episode"
+  },
+  {
     "id": "pvZwzEstQfA",
     "title": "Jesus Is Not A Magic Wand",
     "published": "2026-11-25T14:00:34+00:00",
